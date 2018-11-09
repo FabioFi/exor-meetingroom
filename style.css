@@ -1,3 +1,17 @@
 body {
   padding-top: 70px;
+  background-image: url("https://exorint.com/wp-content/uploads/2017/11/home_page2-2.jpg");
+  background-repeat: no-repeat;
+}
+#calendar{
+  width: 400px;
+}
+.panel-body{
+  display: none;
+}
+#token-display{
+  display: none !important;
+}
+.navbar-brand img{
+  height: 20px;
 }
